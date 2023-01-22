@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-px$mp_j3nh@h0q)4&l2ig$m0m#8cv6ux%b9_&)3sb9ee84rc3v
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['movie-wala.herokuapp.com','127.0.0.1','0.0.0.0']
+ALLOWED_HOSTS = ['movie-wala.herokuapp.com','127.0.0.1','0.0.0.0','movie-wala.onrender.com']
 
 
 # Application definition
